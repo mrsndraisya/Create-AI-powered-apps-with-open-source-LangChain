@@ -8,7 +8,7 @@ import gradio as gr
 import time
 
 # Mengatur API key
-openai_api_key = "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"  # Ganti dengan API key kamu
+openai_api_key = "Zia"  # Ganti dengan API key kamu
 os.environ["OPENAI_API_KEY"] = openai_api_key
 
 # Mengatur memori percakapan
